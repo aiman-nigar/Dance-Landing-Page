@@ -7,6 +7,7 @@ It is a static home page made using **HTML & CSS**.
 
 > ### The Screenshot of the site are attached below:-
 
-![Project-13 ScreenShot:](SS13.png "SAAS Landing page")
+![Project-14 ScreenShot:](SS13.png "Dance Landing page")
+
 
 - Time taken: 3 Hour 30 minutes
