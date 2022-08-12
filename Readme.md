@@ -9,5 +9,3 @@ It is a static home page made using **HTML & CSS**.
 
 ![Project-14 ScreenShot:](SS13.png "Dance Landing page")
 
-
-- Time taken: 3 Hour 30 minutes
