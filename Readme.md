@@ -10,3 +10,5 @@ It is a static home page made using **HTML & CSS**.
 ![Project-14 ScreenShot:](SS14.png "Dance Landing page")
 
 - Time taken: 3 Hour 30 minutes
+
+> ### The link to the site: [Dance Landing Page](https://aima-dance-landing-page.netlify.app/)
