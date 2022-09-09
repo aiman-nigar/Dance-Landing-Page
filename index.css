@@ -232,3 +232,80 @@ button {
     top: 2.5rem;
     left: 32.5rem;
 }
+
+
+/* RESPONSIVE PART */
+
+@media (min-width: 200px) and (max-width: 700px) {
+    .container,
+    body {
+        display: block;
+        padding: 0 auto;
+        width: fit-content;
+    }
+    .left>.img2 {
+        left: 3rem;
+    }
+    nav {
+        position: absolute;
+        left: 25rem;
+        width: fit-content;
+    }
+    nav>a {
+        color: black;
+        padding: 0.2rem;
+        display: block;
+    }
+    .social-icons>img {
+        position: absolute;
+        display: block;
+        left: 20rem;
+        top: 0rem;
+        padding: 1.3rem 0;
+    }
+    .main-heading {
+        position: absolute;
+        left: 1rem;
+        top: 10rem;
+        width: fit-content;
+    }
+    .main-heading>h3 {
+        top: 15rem;
+        left: 25rem;
+        width: fit-content;
+    }
+    .button {
+        left: 5rem;
+        top: 30rem;
+    }
+    .list {
+        display: block;
+        left: 5rem;
+        bottom: -15rem;
+        color: #fff;
+    }
+    .last-sec {
+        position: absolute;
+        left: 5rem;
+        /* width: 450px; */
+        bottom: -40rem;
+    }
+    .main-heading>h3 {
+        display: block;
+    }
+    .last-sec>h3,
+    .last-sec>h3::before,
+    .list-items>li,
+    .main-heading>h3,
+    .list-items>.active {
+        color: #fff;
+    }
+    .left>.img1 {
+        object-fit: cover;
+        height: fit-content;
+    }
+    .social-icons>.fb,
+    .social-icons>img {
+        display: none;
+    }
+}
